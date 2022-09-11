@@ -22,7 +22,7 @@ public class HelloWorld {
 
 }
 ```
-The most basic way to get something to run is to create a main function which takes a string of args[] (rather than int ArgC and Char* ArgV[] in c). The new class file would appear as follows:
+The most basic way to get something to run is to create a main function which takes a string of args[ ] (rather than int ArgC and Char* ArgV[ ] in c). The new class file would appear as follows and the green arrow will become active, allowing the program to be run.
 ```
 public class HelloWorld {
 
