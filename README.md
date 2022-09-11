@@ -13,4 +13,10 @@ These tutorials are shown in eclipse and have a series of playlists, with around
 ## Advanced and data structures
 ## Intellij
 To create new projcet: File -> new -> project\
-Can link up with a git repository inside the IDE.
+Can link up with a git repository inside the IDE.\
+### Creating a new class
+New class files created by right clicking the src folder.\
+The .java file can then be run by clicking the green play button located either top right or along the line numbers margin. If a template is used this will likely already be there but just creating the class file in Intellij without a template will just initiate the public class file as shown:\
+`public class HelloWorld {
+    
+}`
