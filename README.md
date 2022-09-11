@@ -22,3 +22,13 @@ public class HelloWorld {
 
 }
 ```
+The most basic way to get something to run is to create a main function which takes a string of args[] (rather than int ArgC and Char* ArgV[] in c). The new class file would appear as follows:\
+```
+public class HelloWorld {
+
+    public static void main(String args[]){
+        System.out.println("Hello World");
+    }
+
+}
+```
