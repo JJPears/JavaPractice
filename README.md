@@ -11,7 +11,7 @@ Helpful stuff for when I need to review java, alongside data structures and othe
 [**Alex Lee Java Youtube Playlists**](https://www.youtube.com/c/AlexLeeYT/playlists)\
 These tutorials are shown in eclipse and have a series of playlists, with around 25 vids each, beginner 1, beginner 2, Intermediate and further.
 ### Creating code that can run:
-In other circumstances code needs to be compiled before being run however this will all be handled by Intellij and instead we can just use the run code button in the IDE. We need to create a new class as this is an OOP language, where there is a tutorial in the [Intellij section](#Creating a new class) of this tutorial.
+In other circumstances code needs to be compiled before being run however this will all be handled by Intellij and instead we can just use the run code button in the IDE. We need to create a new class as this is an OOP language, where there is a tutorial in the [Intellij section](#creating-a-new-class) of this tutorial.
 ## Advanced and data structures
 ## Intellij
 To create new projcet: File -> new -> project\
